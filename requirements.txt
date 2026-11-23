@@ -1,0 +1,6 @@
+PyAudioWPatch>=0.2.12
+numpy
+soxr
+av>=14
+PySide6>=6.6
+zeroconf>=0.130

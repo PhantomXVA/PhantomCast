@@ -1,0 +1,11 @@
+# build / env
+.venv/
+__pycache__/
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.pyc
